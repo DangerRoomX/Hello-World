@@ -1,2 +1,2 @@
 # Hello-World
-Becoming familiar with GitHub
+Here we are investigating branches in GitHub.
